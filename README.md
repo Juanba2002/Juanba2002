@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **python and data analysis**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
