@@ -2,8 +2,8 @@
 <h3 align="center">Student of systems engineering</h3>
 
 - 🌱 I’m currently learning **python and data analysis**
-
-<p align="left">
+<p align="center">
+  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
